@@ -1,0 +1,7 @@
+name: LoginErrorFixer
+author: ojy
+api: 5.0.0
+version: B1
+main: ojy\LoginErrorFixer\LoginErrorFixer
+
+src-namespace-prefix: ojy\LoginErrorFixer
